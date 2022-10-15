@@ -3,7 +3,7 @@ Christopher Rayas submission for Project 1 in Computer Networks CS 4392 Section 
 
 This github repository is my attempt of completion of Project 1 of Computer Networks class CS 4392.
 
-I ran into a number of issues while attempting to complete this project, but I will at least start off with what I think I correctly. I 
+I ran into a number of issues while attempting to complete this project, but I will at least start off with what I think I did correctly. I 
 believe that my client code was able to connect to my own server. I ran into difficulties however, getting the server to respond back. I first
 started coding through an online compiler repl.it, but then switched to a shell/IDLE compiler run on my personal machine. I believe it is
 because of running my code through a shell that I was running into so many problems with my code, as I had assistance by a friend whose code was
